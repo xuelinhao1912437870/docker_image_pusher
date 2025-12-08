@@ -1,4 +1,4 @@
-httpd:v2.4
+httpd:2.4
 redis:latest
 postgres:18
 busybox:latest
