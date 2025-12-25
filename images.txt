@@ -1,5 +1,1 @@
-httpd:2.4
-redis:latest
-postgres:18
-busybox:latest
-rockylinux:9
+ghcr.io/google/cadvisor:v0.55.1
