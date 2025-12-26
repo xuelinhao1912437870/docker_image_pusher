@@ -2,7 +2,7 @@ prom/node-exporter:v1.10.2
 prom/prometheus:v3.8.1
 grafana/grafana:12.4.0-20447603318-ubuntu
 prom/alertmanager:v0.30.0
-grafana/protail:maini-08e3c43
+grafana/promtail:main-08e3c43
 grafana/loki:main-08e3c43
 sysdig/sysdig:0.41.3
 portainer/portainer-ce:2.33.6-alpine
