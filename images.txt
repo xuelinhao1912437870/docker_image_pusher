@@ -1,2 +1,1 @@
 ollama/ollama:latest
-nginx/nginx:1.28
